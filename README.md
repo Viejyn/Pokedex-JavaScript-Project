@@ -8,10 +8,6 @@
 <li>Design using Html, CSS and Javascript</li>
 <li>Responsive</li>
 
-### `Deploy`
-
-
-
 ### `Screen` 🎥
 
 ![](Pokedex.gif)# Pokedex-JavaScript-Project

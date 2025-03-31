@@ -1,13 +1,19 @@
-# Pokedex Guide JavaScript Project
+# ⚡ Pokedex Guide JavaScript Project
 
-<li>This project includes the Pokedex Guide interface built with HTML, CSS, JS and API.</li>
-<li>It includes pokemon listing, searching and viewing features with data coming from API.</li>
+<li>This project simplifies finding pokemons with the Pokedex Guide interface.</li>
+<li>It is built with modern web technologies and includes functions such as pokemon listing, searching and viewing features with data coming from API.</li>
 
-## What I Practice
+### 👩‍💻 Technologies Used
 
-<li>Design using Html, CSS and Javascript</li>
-<li>Responsive</li>
+<li>JavaScript</li>
+<li>Html</li>
+<li>Css</li>
+<li>Responsive design</li>
+
+### 🌐 `Deploy`
+
+https://pokedex-guide-js.netlify.app/
 
 ### `Screen` 🎥
 
-![](Pokedex.gif)# Pokedex-JavaScript-Project
+![](Pokedex.gif)
